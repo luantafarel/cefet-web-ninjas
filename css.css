@@ -40,3 +40,26 @@ iframe{
 	margin-right: auto;
 	background-color: #fffff;
 }
+a:link {
+	text-decoration: none;
+	}
+a:visited {
+	text-decoration: red;
+	}
+a:hover {
+	text-decoration: underline;
+	text-decoration: white;
+	}
+a:active {
+	text-decoration: gray;
+	}
+#externo{
+	background-image: url(img/globo.png);
+	background-size: 10px 10px;
+    	background-repeat: no-repeat;
+}
+#nota{
+	font-family: arial;
+	font-size: 13px ;
+	color: slategray;
+}

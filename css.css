@@ -63,3 +63,10 @@ a:active {
 	font-size: 13px ;
 	color: slategray;
 }
+#numero{
+	background-color: gray;
+	font-size: 30px;
+}
+#nomedopasso{
+	font-size: 35px;
+}
